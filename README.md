@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to stay positive in CS
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: me (づ◡﹏◡)づ stress
 
 <!---
