@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midnightoganesson
-- 👀 I’m interested in engineering, cybersecurity, and learning about new coffee shops
+- 👀 I’m interested in engineering, cybersecurity, and trying out new coffee shops
 - 🌱 I’m currently learning to stay positive in CS
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ...
